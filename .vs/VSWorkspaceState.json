@@ -3,9 +3,8 @@
     "",
     "\\WeatherTrackingAPI",
     "\\WeatherTrackingAPI\\Controllers",
-    "\\WeatherTrackingAPI\\models",
     "\\WeatherTrackingAPI\\Services"
   ],
-  "SelectedNode": "\\WeatherTrackingAPI\\appsettings.json",
+  "SelectedNode": "\\WeatherTrackingSystem.sln",
   "PreviewInSolutionExplorer": false
 }
